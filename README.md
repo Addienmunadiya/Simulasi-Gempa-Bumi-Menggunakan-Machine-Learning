@@ -1,0 +1,1 @@
+# Simulasi-Gempa-Bumi-Menggunakan-Machine-Learning
